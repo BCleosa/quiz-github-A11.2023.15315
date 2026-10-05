@@ -7,4 +7,4 @@ Kelas  : DEV-04
 Mata Kuliah : Bengkel Koding
 
 Deskripsi
-Repository ini dibuat untuk memenuhi tugas kuis praktikum penggunaan GitHub, pengoperasian repository publik, serta penyusunan profil developer.
+Repository ini dibuat untuk memenuhi tugas kuis praktikum Bengkel Koding poliklinik-app
